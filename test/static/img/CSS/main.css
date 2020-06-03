@@ -1,0 +1,14 @@
+.body{
+    background-color: cadetblue;
+}
+.container{
+    background-color: darkcyan;
+}
+.message {
+    font-weight: 600;
+    color: blue;
+}
+.container-fluid {
+
+background-color: cadetblue;
+}
